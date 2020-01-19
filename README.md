@@ -1,6 +1,5 @@
 ![2](https://user-images.githubusercontent.com/20393064/53322463-d3febd00-391e-11e9-9b36-d5975eeaceb9.png)
 
-
 # JMT 
 
 ## 팀 구성원
